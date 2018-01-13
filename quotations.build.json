@@ -1,0 +1,1163 @@
+{
+  "abolish" : {
+    "author" : "John Dewey",
+    "quotation" : "The only way to abolish war is to make peace seem heroic.",
+    "type" : [ "VERB" ]
+  },
+  "abolishment" : {
+    "author" : "Abraham Lincoln",
+    "quotation" : "I am a little uneasy about the abolishment of slavery in this District of Columbia.",
+    "type" : [ "NOUN" ]
+  },
+  "abolition" : {
+    "author" : "Karl Marx",
+    "quotation" : "The theory of Communism may be summed up in the single sentence: Abolition of private property.",
+    "type" : [ "NOUN" ]
+  },
+  "abolitionist" : {
+    "author" : "Abraham Lincoln",
+    "quotation" : "I have always hated slavery, I think as much as any Abolitionist.",
+    "type" : [ "NOUN" ]
+  },
+  "absorb" : {
+    "author" : "Bruce Lee",
+    "quotation" : "Absorb what is useful, reject what is useless, add what is specifically your own.",
+    "type" : [ "VERB" ]
+  },
+  "accommodate" : {
+    "author" : "George Herbert",
+    "quotation" : "Patience, time and money accommodate all things.",
+    "type" : [ "VERB" ]
+  },
+  "accurate" : {
+    "author" : "Brené Brown",
+    "quotation" : "Vulnerability is our most accurate measurement of courage.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "accustom" : {
+    "author" : "Alexander Suvorov",
+    "quotation" : "Accustom yourself to tireless activity...",
+    "type" : [ "VERB" ]
+  },
+  "acknowledge" : {
+    "author" : "Nikos Kazantzakis",
+    "quotation" : "Never acknowledge the limitations of man. Smash all boundaries! Deny whatever your eyes see. Die every moment, but say: Death does not exist.",
+    "type" : [ "VERB" ]
+  },
+  "adder" : {
+    "author" : "Hilda Doolittle",
+    "quotation" : "I fear no man, no woman; flower does not fear bird, insect nor adder.",
+    "type" : [ "NOUN" ]
+  },
+  "adhere" : {
+    "author" : "Chuck D",
+    "quotation" : "I adhere to the philosophy, \"I don't care who writes the laws, let me write the songs\".",
+    "type" : [ "VERB" ]
+  },
+  "adverse" : {
+    "author" : "Shiv Khera",
+    "quotation" : "Under Adverse conditions - some people break down,some break records.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "advocate" : {
+    "author" : "Ulysses S. Grant",
+    "quotation" : "I have never advocated war except as a means of peace.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "aesthetic" : {
+    "author" : "George Edward Woodberry",
+    "quotation" : "Aesthetic freedom is like free speech; it is, indeed, a form of free speech.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "affinity" : {
+    "author" : "Guy Pearce",
+    "quotation" : "I grew up with such an affinity to cats. I adore the way that they think and operate.",
+    "type" : [ "NOUN" ]
+  },
+  "affirm" : {
+    "author" : "Aberjhani",
+    "quotation" : "Quote words that affirm all men and women are your brothers and sisters.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "aid" : {
+    "author" : "Rand Paul",
+    "quotation" : "Foreign aid goes from poor people in rich countries to rich people in poor countries.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "albeit" : {
+    "author" : "Christopher Marlowe",
+    "quotation" : "Virginity, albeit some highly prize it, Compared with marriage, had you tried them both, Differs as much as wine and water doth.",
+    "type" : [ "ADVERB", "CONJUNCTION" ]
+  },
+  "all through" : {
+    "author" : "Jean-Jacques Rousseau",
+    "quotation" : "All through life a man has need of a counsellor and guide.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "ambulance" : {
+    "author" : "Frank Buckles",
+    "quotation" : "My job driving the ambulance was not very severe, you did what you were supposed to do. That was my main job.",
+    "type" : [ "NOUN" ]
+  },
+  "amend" : {
+    "author" : "Bible",
+    "quotation" : "Amend your ways and your doings.",
+    "type" : [ "VERB" ]
+  },
+  "and so {on!forth}" : {
+    "author" : "Ronald Reagan",
+    "quotation" : "I do not believe in taking away the right of the citizen for sporting, for hunting and so forth, or for home defense. But I do believe that an AK-47, a machine gun, is not a sporting weapon or needed for defense of a home."
+  },
+  "apart from" : {
+    "author" : "Marc Bekoff",
+    "quotation" : "Humans are a part of nature, not apart from nature.",
+    "type" : [ "PHRASE" ]
+  },
+  "appoint" : {
+    "author" : "Aesop",
+    "quotation" : "We hang the petty thieves and appoint the great ones to public office.",
+    "type" : [ "VERB" ]
+  },
+  "appointee" : {
+    "author" : "Josh Marshall.",
+    "quotation" : "There's a difference, though, between being a political appointee and putting a political operative in charge of a U.S. attorney's office.",
+    "type" : [ "NOUN" ]
+  },
+  "appointment" : {
+    "author" : "Nhat Hanh",
+    "quotation" : "Our appointment with life is in the present moment. If we do not have peace and joy right now, when will we have peace and joy?",
+    "type" : [ "NOUN" ]
+  },
+  "as far as" : {
+    "author" : "Albert Einstein",
+    "quotation" : "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "as far as {someone!something} {be} concerned" : {
+    "author" : "Albert Einstein",
+    "quotation" : "As far as I'm concerned, I prefer silent vice to ostentatious virtue."
+  },
+  "as far back as {someone} can remember" : {
+    "author" : "Al Pacino",
+    "quotation" : "Drinking and smoking grass were a part of my life as far back as I can remember."
+  },
+  "aspect" : {
+    "author" : "Nora Roberts",
+    "quotation" : "The most important aspect of any story, to me, is character.",
+    "type" : [ "NOUN" ]
+  },
+  "assent" : {
+    "author" : "Ray Krone",
+    "quotation" : "The death penalty doesn't need your assent to continue ... it needs your indifference.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "at all" : {
+    "author" : "Aesop",
+    "quotation" : "If you can't say anything nice, then don't say anything at all.",
+    "type" : [ "PHRASE" ]
+  },
+  "atrocity" : {
+    "author" : "Masai Ujiri",
+    "quotation" : "What is happening in Nigeria is an absolute atrocity.",
+    "type" : [ "NOUN" ]
+  },
+  "basement" : {
+    "author" : "Mike Trout",
+    "quotation" : "No curfew. I live in the basement. I got everything I need. Home cooking ... it's awesome.",
+    "type" : [ "NOUN" ]
+  },
+  "being" : {
+    "author" : "Aaron Carter",
+    "quotation" : "The main thing in life is not to be afraid of being human.",
+    "type" : [ "NOUN", "PHRASE", "VERB" ]
+  },
+  "benefit" : {
+    "author" : "Alan Autry",
+    "quotation" : "Leadership requires the courage to make decisions that will benefit the next generation.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "besides" : {
+    "author" : "Jake LaMotta",
+    "quotation" : "Besides Bob Satterfield, the only ones who ever hurt me were my ex-wives.",
+    "type" : [ "ADVERB", "PREPOSITION" ]
+  },
+  "betray" : {
+    "author" : "Aesop",
+    "quotation" : "Betray a friend, and you'll often find you have ruined yourself.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "bias" : {
+    "author" : "K.K. Raghava",
+    "quotation" : "I can't promise my child a life without bias - we're all biased - but I promise to bias my child with multiple perspectives.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "bite" : {
+    "author" : "Marilyn Monroe",
+    "quotation" : "Dogs never bite me - just humans.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "bleed" : {
+    "author" : "Ralph Waldo Emerson",
+    "quotation" : "Words are alive; cut them and they bleed.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "breakthrough" : {
+    "author" : "Bill Gates",
+    "quotation" : "A breakthrough in machine learning would be worth ten Microsofts.",
+    "type" : [ "NOUN" ]
+  },
+  "bride" : {
+    "author" : "Kabir",
+    "quotation" : "When the bride is one with her lover, who cares about the wedding party?",
+    "type" : [ "NOUN" ]
+  },
+  "broaden" : {
+    "author" : "Bruce Chatwin",
+    "quotation" : "Travel doesn't merely broaden the mind. It makes the mind.",
+    "type" : [ "VERB" ]
+  },
+  "by themselves" : {
+    "author" : "Mark Twain",
+    "quotation" : "Thousands of geniuses live and die undiscovered - either by themselves or by others."
+  },
+  "capital punishment" : {
+    "author" : "Henry Ford",
+    "quotation" : "Capital punishment is as fundamentally wrong as a cure for crime as charity is wrong as a cure for poverty.",
+    "type" : [ "NOUN" ]
+  },
+  "cardiac arrest" : {
+    "author" : "Samuel Shem",
+    "quotation" : "At a cardiac arrest, the first procedure is to take your own pulse.",
+    "type" : [ "NOUN" ]
+  },
+  "chamber" : {
+    "author" : "Jimi Hendrix",
+    "quotation" : "There'll be no smoking in the gas chamber.",
+    "type" : [ "NOUN" ]
+  },
+  "climb" : {
+    "author" : "Royal Robbins",
+    "quotation" : "Before the deed comes the thought. Before the achievement comes the dream. Every mountain we climb, we first climb in our mind.",
+    "type" : [ "VERB" ]
+  },
+  "commit" : {
+    "author" : "Voltaire",
+    "quotation" : "As long as people believe in absurdities they will continue to commit atrocities.",
+    "type" : [ "ADJECTIVE", "VERB" ]
+  },
+  "compassion" : {
+    "author" : "Hubert H. Humphrey",
+    "quotation" : "Compassion is not weakness, and concern for the unfortunate is not socialism.",
+    "type" : [ "NOUN" ]
+  },
+  "conscious" : {
+    "author" : "Elia Kazan",
+    "quotation" : "I was always a self-conscious person.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "consist" : {
+    "author" : "George Bernard Shaw",
+    "quotation" : "Success does not consist in never making mistakes but in never making the same one a second time.",
+    "type" : [ "VERB" ]
+  },
+  "contemporary" : {
+    "author" : "Benedetto Croce",
+    "quotation" : "All history is contemporary history.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "content" : {
+    "author" : "Chuck Palahniuk",
+    "quotation" : "May I never be complete. May I never be content. May I never be perfect.",
+    "type" : [ "ADJECTIVE", "NOUN", "VERB" ]
+  },
+  "contrariwise" : {
+    "author" : "Lewis Carroll",
+    "quotation" : "Contrariwise, if it was so, it might be; and if it were so, it would be; but as it isn't, it ain't. That's logic.",
+    "type" : [ "ADVERB" ]
+  },
+  "contrary" : {
+    "author" : "Saint Augustine",
+    "quotation" : "Miracles are not contrary to nature, but only contrary to what we know about nature.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "contrast" : {
+    "author" : "Rita Ora",
+    "quotation" : "I have always liked the contrast between being blonde and having dark features.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "counterpart" : {
+    "author" : "Robert M",
+    "quotation" : "Our soul should be a mirror of Christ; we should reflect every feature: for every grace in Christ there should be a counterpart in us.",
+    "type" : [ "NOUN" ]
+  },
+  "courage" : {
+    "author" : "Mark Twain",
+    "quotation" : "Courage is resistance to fear, mastery of fear – not absence of fear.",
+    "type" : [ "NOUN" ]
+  },
+  "courageous" : {
+    "author" : "Matt Cullen",
+    "quotation" : "Courageous people are not afraid to fail. So often in life and in sports, we're afraid to fail. Instead, we should attack things with excitement and enthusiasm and think about the positives as opposed to the negatives.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "courageously" : {
+    "author" : "Ovid",
+    "quotation" : "Happy are those who dare courageously to defend what they love.",
+    "type" : [ "ADVERB" ]
+  },
+  "death" : {
+    "author" : "Leonardo da Vinci",
+    "quotation" : "As a well spent day brings happy sleep, so life well used brings happy death.",
+    "type" : [ "NOUN" ]
+  },
+  "decline" : {
+    "author" : "William Faulkner",
+    "quotation" : "I decline to accept the end of man.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "deed" : {
+    "author" : "Benjamin Franklin",
+    "quotation" : "It takes many good deeds to build a good reputation, and only one bad one to lose it.",
+    "type" : [ "NOUN" ]
+  },
+  "deliver" : {
+    "author" : "John Ford",
+    "quotation" : "You can speak well if your tongue can deliver the message of your heart.",
+    "type" : [ "VERB" ]
+  },
+  "deliver on" : {
+    "author" : "Marty Feldman",
+    "quotation" : "Hookers have to deliver on their promise... unlike politicians.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "delivery" : {
+    "author" : "Kenneth Lay",
+    "quotation" : "We use competitive markets to arrange for delivery of our food supply.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "deprive" : {
+    "author" : "H. Jackson Brown, Jr.",
+    "quotation" : "Never deprive someone of hope; it might be all they have.",
+    "type" : [ "VERB" ]
+  },
+  "discrepancy" : {
+    "author" : "Dalai Lama",
+    "quotation" : "Have no discrepancy between what you say, what you are and what you do.",
+    "type" : [ "NOUN" ]
+  },
+  "disturb" : {
+    "author" : "Proverbs",
+    "quotation" : "Small children disturb your sleep, big children your life.",
+    "type" : [ "VERB" ]
+  },
+  "dominate" : {
+    "quotation" : "The stronger must dominate and not blend with the weaker, thus sacrificing his own greatness.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "elevate" : {
+    "quotation" : "Stephen Harper is probably the most dangerous human being ever elevated to power in Canada.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "elevating" : {
+    "quotation" : "Arithmetic has a very great and elevating effect, compelling the soul to reason about abstract number, and rebelling against the introduction of visible or tangible objects into the argument.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "elevation" : {
+    "quotation" : "There is no reason against woman's elevation, but prejudices.",
+    "type" : [ "NOUN" ]
+  },
+  "elevator" : {
+    "quotation" : "Life is like an elevator. Up and down, just make sure you get off on the right floor.",
+    "type" : [ "NOUN" ]
+  },
+  "embellish" : {
+    "author" : "Jean Paul",
+    "quotation" : "Nothing can embellish a beautiful face more than a narrow band that indicates a small wound drawn cross wise over the brow.",
+    "type" : [ "VERB" ]
+  },
+  "emergency" : {
+    "author" : "James Douglas, Lord of Douglas",
+    "quotation" : "Care shouldn't start in the emergency room.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "erupt" : {
+    "author" : "Charles Lindbergh",
+    "quotation" : "What makes human power erupt like a volcano? What destroy's it? The civilizations of Rome, Greece, Egypt, China were all eruptions from a human core.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "essence" : {
+    "author" : "Vincent Van Gogh",
+    "quotation" : "Love is something eternal — the aspect may change but not the essence.",
+    "type" : [ "NOUN" ]
+  },
+  "evaluate" : {
+    "author" : "Tony Gaskins",
+    "quotation" : "Evaluate the people in your life; then promote, demote, or terminate. You're the CEO of your life!",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "exaggerate" : {
+    "author" : "Anonymous",
+    "quotation" : "Man is inclined to exaggerate almost everything - except his own mistakes.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "exert" : {
+    "quotation" : "The best way in which women can exert their power is in being late for an appointment, or in not keeping it at all.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "expect" : {
+    "author" : "Sylvia Plath",
+    "quotation" : "If you expect nothing from somebody you are never disappointed.",
+    "type" : [ "VERB" ]
+  },
+  "extreme" : {
+    "quotation" : "The most powerful tool to lift families out of extreme poverty is to grant micro-loans to women.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "famine" : {
+    "quotation" : "The Irish famine of 1846 killed more than 1,000,000 people, but it killed poor devils only. To the wealth of the country it did not the slightest damage.",
+    "type" : [ "NOUN" ]
+  },
+  "far less" : {
+    "author" : "Warren Buffett",
+    "quotation" : "Take the high road; it's far less crowded."
+  },
+  "farmhouse" : {
+    "author" : "Robert Brault",
+    "quotation" : "A child on a farm sees a plane fly overhead and dreams of a faraway place. A traveler on the plane sees the farmhouse below and dreams of home.",
+    "type" : [ "NOUN" ]
+  },
+  "feel free" : {
+    "author" : "Neil Bauman",
+    "quotation" : "Please feel free to post this if you have the gonads.",
+    "type" : [ "PHRASE" ]
+  },
+  "flatmate" : {
+    "author" : "Michael Caine",
+    "quotation" : "In the sixties, everyone you knew became famous. My flatmate was Terence Stamp. My barber was Vidal Sassoon. David Hockney did the menu in a restaurant I went to. I didn't know anyone unknown who didn't become famous.",
+    "type" : [ "NOUN" ]
+  },
+  "for instance" : {
+    "quotation" : "My luck is getting worse and worse. Last night, for instance, I was mugged by a quaker.",
+    "type" : [ "PHRASE" ]
+  },
+  "forehead" : {
+    "author" : "Jennifer Aniston",
+    "quotation" : "You know, I've got wrinkles on my forehead and smile lines, but what's wrong with that? I love to smile.",
+    "type" : [ "NOUN" ]
+  },
+  "foresee" : {
+    "quotation" : "Your task is not to foresee the future, but to enable it.",
+    "type" : [ "VERB" ]
+  },
+  "forever" : {
+    "quotation" : "I want you to be forever strong on the field, so that you will be forever strong off the field.",
+    "type" : [ "ADVERB" ]
+  },
+  "fortune" : {
+    "author" : "Adolf Hitler",
+    "quotation" : "What good fortune for governments that the people do not think.",
+    "type" : [ "NOUN" ]
+  },
+  "furnish" : {
+    "author" : "Hinton R. Helper",
+    "quotation" : "California can and does furnish the best bad things that are obtainable in America.",
+    "type" : [ "VERB" ]
+  },
+  "furthermore" : {
+    "author" : "Vladimir Lenin",
+    "quotation" : "A revolution is impossible without a revolutionary situation; furthermore, not every revolutionary situation leads to revolution.",
+    "type" : [ "ADVERB" ]
+  },
+  "fury" : {
+    "author" : "John Dryden",
+    "quotation" : "Beware of the fury of the patient man.",
+    "type" : [ "NOUN" ]
+  },
+  "get older" : {
+    "quotation" : "Time makes you bolder, children get older. I'm getting older, too.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "get through" : {
+    "quotation" : "You can get through life with bad manners, but it's easier with good manners.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "get through to" : {
+    "quotation" : "Educating a child won't be difficult if you get through to the parent.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "govern" : {
+    "quotation" : "It is far better to be free to govern or misgovern yourself than to be governed by anybody else.",
+    "type" : [ "VERB" ]
+  },
+  "handkerchief" : {
+    "author" : "Anne Sullivan Macy",
+    "quotation" : "I'd rather break stones on the king's highway than hem a handkerchief.",
+    "type" : [ "NOUN" ]
+  },
+  "having to" : {
+    "quotation" : "Style is a way to say who you are without having to speak.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "hear out" : {
+    "author" : "Rand Paul",
+    "quotation" : "If you hear me out, I believe you'll discover that what motivates me more than any other issue is the defense of everyone's rights.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "heated" : {
+    "quotation" : "If you are cold, tea will warm you. If you are too heated, it will cool you. If you are depressed, it will cheer you. If you are excited, it will calm you.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "homestead" : {
+    "author" : "John C. Hawkes",
+    "quotation" : "My father's parents were Irish. Only a year before my father died, he and I went back to Ireland for a week to look at the old homestead.",
+    "type" : [ "NOUN" ]
+  },
+  "hurt" : {
+    "author" : "Proverbs",
+    "quotation" : "When there is no enemy within, the enemies outside cannot hurt you.",
+    "type" : [ "ADJECTIVE", "NOUN", "VERB" ]
+  },
+  "hype" : {
+    "author" : "Flavor Flav",
+    "quotation" : "The hype man's job is to get everybody out of their seats and on the dance floor to have a good time.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "ignorance" : {
+    "author" : "Anonymous",
+    "quotation" : "Your ignorance is their power.",
+    "type" : [ "NOUN" ]
+  },
+  "illiterate" : {
+    "quotation" : "If you're totally illiterate and living on one dollar a day, the benefits of globalization never come to you.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "in [actual] fact" : {
+    "quotation" : "In fact I always disliked conceptual art, because my work is about anarchistic humor."
+  },
+  "in addition to {something}" : {
+    "quotation" : "In addition to English, at least one ancient language, probably Greek or Hebrew, and two modern languages would be required."
+  },
+  "in contrast to" : {
+    "author" : "Sigmund Freud",
+    "quotation" : "The ego represents what we call reason and sanity, in contrast to the id which contains the passions."
+  },
+  "in order to" : {
+    "author" : "R. C. Sproul",
+    "quotation" : "God is not going to negotiate His holiness... in order to accommodate us.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "in someone's opinion" : {
+    "quotation" : "In my opinion, the M1 rifle is the greatest battle implement ever devised.",
+    "type" : [ "PHRASE" ]
+  },
+  "in what" : {
+    "author" : "Charles Spurgeon",
+    "quotation" : "My faith rests not in what I am, or shall be, or feel, or know, but in what Christ is, in what he has done, and in what he is doing for me."
+  },
+  "in-depth" : {
+    "author" : "Benjamin Carson",
+    "quotation" : "If we develop in-depth knowledge it will enable us to give our best to others and help to make a better world."
+  },
+  "inconsistency" : {
+    "author" : "Susan B Anthony.",
+    "quotation" : "Inconsistency is the jewel of the American people.",
+    "type" : [ "NOUN" ]
+  },
+  "inequality" : {
+    "quotation" : "Of all the forms of inequality, injustice in health care is the most shocking and inhumane.",
+    "type" : [ "NOUN" ]
+  },
+  "inhibit" : {
+    "author" : "George Shearing",
+    "quotation" : "Having a set, popular formula does inhibit you.",
+    "type" : [ "VERB" ]
+  },
+  "instant" : {
+    "quotation" : "Everybody is looking for instant success, but it doesn't work that way. You build a successful life one day at a time.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN" ]
+  },
+  "interfere" : {
+    "quotation" : "The most important thing to do in your life is to not interfere with somebody else's life.",
+    "type" : [ "VERB" ]
+  },
+  "interior" : {
+    "author" : "Rick Owens",
+    "quotation" : "Every jacket I make has interior pockets big enough to store a book and a sandwich and a passport.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "intolerance" : {
+    "quotation" : "Never again war! Never again hatred and intolerance!",
+    "type" : [ "NOUN" ]
+  },
+  "intrusive" : {
+    "quotation" : "Salary stories are intrusive. Do you ask your neighbour what they earn for their job?",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "intrusively" : {
+    "quotation" : "Sarcasm: the last refuge of modest and chaste-souled people when the privacy of their soul is coarsely and intrusively invaded.",
+    "type" : [ "ADVERB" ]
+  },
+  "intrusiveness" : {
+    "quotation" : "We have seen an outrageous increase in the size, scope, and intrusiveness of the federal government.",
+    "type" : [ "NOUN" ]
+  },
+  "jail" : {
+    "quotation" : "You can jail a Revolutionary, but you can't jail the Revolution.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "jewel" : {
+    "author" : "Bible",
+    "quotation" : "As a jewel of gold in a swine's snout, so is a fair woman which is without discretion.",
+    "type" : [ "NOUN" ]
+  },
+  "justify" : {
+    "quotation" : "Men use thought only to justify their wrong doings, and employ speech only to conceal their thoughts.",
+    "type" : [ "VERB" ]
+  },
+  "kick in" : {
+    "author" : "Dwayne Johnson",
+    "quotation" : "When you walk up to opportunities door... don't knock it. Kick that bitch in, smile and introduce yourself.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "kick in the teeth" : {
+    "quotation" : "You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you."
+  },
+  "kindness" : {
+    "author" : "Jewel",
+    "quotation" : "In the end only kindness matters.",
+    "type" : [ "NOUN" ]
+  },
+  "lack" : {
+    "author" : "Leo Tolstoy",
+    "quotation" : "Do not fear the lack of knowledge, fear false knowledge.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "landowner" : {
+    "author" : "Antoine Lavoisier",
+    "quotation" : "A wealthy landowner cannot cultivate and improve his farm without spreading comfort and well-being around him. Rich and abundant crops, a numerous population and a prosperous countryside are the rewards for his efforts.",
+    "type" : [ "NOUN" ]
+  },
+  "lasting" : {
+    "quotation" : "Lasting love extends grace. No relationship will make it without grace.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "legislate" : {
+    "author" : "Lyndon B. Johnson",
+    "quotation" : "Democrats legislate; Republicans investigate.",
+    "type" : [ "VERB" ]
+  },
+  "lethal" : {
+    "quotation" : "Complacent ignorance is the most lethal sickness of the soul.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "manifoldness" : {
+    "author" : "Charles Proteus Steinmetz",
+    "quotation" : "In a mathematical sense, space is manifoldness, or combination of numbers. Physical space is known as the 3-dimension system. There is the 4-dimension system, there is the 10-dimension system.",
+    "type" : [ "NOUN" ]
+  },
+  "measure" : {
+    "author" : "Brian Tracy",
+    "quotation" : "The true measure of the value of any business leader and manager is performance.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "mention" : {
+    "author" : "Larry Wall",
+    "quotation" : "I won't mention any names, because I don't want to get sun4's into trouble...",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "merely" : {
+    "author" : "Albert Einstein",
+    "quotation" : "The release of atomic energy has not created a new problem. It has merely made more urgent the necessity of solving an existing one.",
+    "type" : [ "ADVERB" ]
+  },
+  "mistakenly" : {
+    "author" : "Jeanette Winterson",
+    "quotation" : "I don't know which is worse: to be wrongfully accused or mistakenly understood.",
+    "type" : [ "ADVERB" ]
+  },
+  "mostly" : {
+    "quotation" : "Tennis is mostly mental. You win or lose the match before you even go out there.",
+    "type" : [ "ADVERB" ]
+  },
+  "mother-in-law" : {
+    "author" : "Sin-Itiro Tomonaga",
+    "quotation" : "...a bride who is bullied by her mother-in-law will herself become a bad mother-in-law.",
+    "type" : [ "NOUN" ]
+  },
+  "murder" : {
+    "quotation" : "War is organized murder and torture against our brothers.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "narrow" : {
+    "author" : "Anonymous",
+    "quotation" : "The open-minded see the truth in different things: the narrow-minded see only the differences.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN", "VERB" ]
+  },
+  "naturally" : {
+    "author" : "Amanda Seyfried",
+    "quotation" : "I was naturally skinny and had braces, so I wasn't a cute model.",
+    "type" : [ "ADVERB" ]
+  },
+  "needless" : {
+    "author" : "Confucius",
+    "quotation" : "Things that are done, it is needless to speak about...things that are past, it is needless to blame.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "next to" : {
+    "author" : "Marcus Tullius Cicero",
+    "quotation" : "Next to God we are nothing. To God we are Everything.",
+    "type" : [ "PHRASE" ]
+  },
+  "no doubt" : {
+    "author" : "John Dalton",
+    "quotation" : "This paper will no doubt be found interesting by those who take an interest in it.",
+    "type" : [ "PHRASE" ]
+  },
+  "nobility" : {
+    "author" : "Portia de Rossi",
+    "quotation" : "True nobility isn't about being better than anyone else; it's about being better than you used to be.",
+    "type" : [ "NOUN" ]
+  },
+  "note-taking" : {
+    "author" : "Wanda Koop",
+    "quotation" : "As a painter, taking photos is a form of shorthand - note-taking."
+  },
+  "off-putting" : {
+    "author" : "Kate Bosworth",
+    "quotation" : "I don't want to broadcast my personal life because I feel it's off-putting.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "offense" : {
+    "author" : "Cicero",
+    "quotation" : "Let the punishment match the offense.",
+    "type" : [ "NOUN" ]
+  },
+  "on the contrary" : {
+    "quotation" : "Comfort is no test of truth; on the contrary, truth is often far from being comfortable.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "on the other hand" : {
+    "quotation" : "Change brings opportunities. On the other hand, change can be confusing.",
+    "type" : [ "PHRASE" ]
+  },
+  "once upon a time" : {
+    "author" : "John D. Barrow",
+    "quotation" : "Once upon a time there was no Time.",
+    "type" : [ "PHRASE" ]
+  },
+  "oppress" : {
+    "author" : "Cesar Chavez",
+    "quotation" : "You cannot oppress the people who are not afraid anymore.",
+    "type" : [ "VERB" ]
+  },
+  "or else" : {
+    "quotation" : "A friend to everybody is often a friend to nobody, or else in his simplicity he robs his family to help strangers, and becomes brother to a beggar. There is wisdom in generosity, as in everything else.",
+    "type" : [ "PHRASE" ]
+  },
+  "orb" : {
+    "author" : "William Shakespeare",
+    "quotation" : "Foolery, sir, does walk about the orb like the sun; it shines everywhere.",
+    "type" : [ "NOUN" ]
+  },
+  "outline" : {
+    "quotation" : "After we made love he took a piece of chalk and made an outline of my body.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "outrage" : {
+    "author" : "Herodotus",
+    "quotation" : "There is nothing more foolish, nothing more given to outrage than a useless mob.",
+    "type" : [ "ADJECTIVE", "NOUN", "VERB" ]
+  },
+  "outside" : {
+    "author" : "Nicolas Manetta",
+    "quotation" : "Those who do not think outside the box are easily contained.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN", "PREPOSITION" ]
+  },
+  "over time" : {
+    "quotation" : "A lot of things in history change over time.",
+    "type" : [ "PHRASE" ]
+  },
+  "over whether" : {
+    "quotation" : "Scientifically, there's no debate over whether the fetus is alive and human.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "penalty" : {
+    "quotation" : "If the death penalty is to be abolished, let those gentlemen, the murderers, do it first.",
+    "type" : [ "NOUN" ]
+  },
+  "pesky" : {
+    "author" : "Chuck Eddy",
+    "quotation" : "I'm that grumpy old guy yelling at all those pesky little Grizzly Bear fans to get offa my lawn.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "petty" : {
+    "quotation" : "Don't be so petty. Sometimes you have to do business with people you don't like. It doesn't mean you have to be like them or like them.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "plenty" : {
+    "author" : "Joey Comeau",
+    "quotation" : "There are plenty of fish in the sea, if I run out of women.",
+    "type" : [ "ADVERB", "NOUN", "QUANTIFIER" ]
+  },
+  "plot" : {
+    "author" : "J. K. Rowling",
+    "quotation" : "I always have a basic plot outline, but I like to leave some things to be decided while I write.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "point out" : {
+    "quotation" : "I know my flaws before other people point them out to me.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "polish" : {
+    "author" : "Charles Caleb Colton",
+    "quotation" : "Courage is like the diamond, — very brilliant; not changed by fire, capable of high polish, but except for the purpose of cutting hard bodies useless.",
+    "type" : [ "ADJECTIVE", "NOUN", "VERB" ]
+  },
+  "pond" : {
+    "author" : "Nick Lowe",
+    "quotation" : "I like being a big fish in a small pond. I'm not interested in a huge audience because it brings headaches.",
+    "type" : [ "NOUN" ]
+  },
+  "ponder" : {
+    "author" : "St. Catherine of Siena",
+    "quotation" : "Ponder the fact that God has made you a gardener, to root out vice and plant virtue.",
+    "type" : [ "VERB" ]
+  },
+  "porch" : {
+    "author" : "Abraham Lincoln",
+    "quotation" : "Two of my favorite things are sitting on my front porch smoking a pipe of sweet hemp, and playing my Hohner harmonica.",
+    "type" : [ "NOUN" ]
+  },
+  "poverty" : {
+    "author" : "Nelson Mandela",
+    "quotation" : "While poverty persists, there is no true freedom.",
+    "type" : [ "NOUN" ]
+  },
+  "precious" : {
+    "author" : "Benjamin Disraeli",
+    "quotation" : "Time is precious, but truth is more precious than time.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "prerequisite" : {
+    "author" : "Edsger Dijkstra",
+    "quotation" : "Simplicity is prerequisite for reliability.",
+    "type" : [ "NOUN" ]
+  },
+  "rarely" : {
+    "author" : "Dale Carnegie",
+    "quotation" : "People rarely succeed unless they have fun in what they are doing.",
+    "type" : [ "ADVERB" ]
+  },
+  "ray" : {
+    "author" : "Isaac Stern",
+    "quotation" : "Mozart's music is like an X-ray of your soul - it shows what is there, and what isn't.",
+    "type" : [ "NOUN" ]
+  },
+  "recapitulate" : {
+    "quotation" : "As far as what I do, my value as a writer is certainly not to try to recapitulate a 19th century form. Certain styles of narrative don't conform to my style of experiencing the world.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "refund" : {
+    "author" : "Meyer Lansky",
+    "quotation" : "Always overpay your taxes.That way you'll get a refund.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "regardless" : {
+    "author" : "Josh Thomson",
+    "quotation" : "Live your life with a smile regardless the circumstances.",
+    "type" : [ "ADVERB" ]
+  },
+  "regardless of" : {
+    "author" : "Malcolm X",
+    "quotation" : "I believe in human beings, and that all human beings should be respected as such, regardless of their color.",
+    "type" : [ "PHRASE" ]
+  },
+  "rehabilitate" : {
+    "quotation" : "Prisons don't rehabilitate, they don't punish, they don't protect, so what the hell do they do?",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "reluctance" : {
+    "author" : "Kate Morton",
+    "quotation" : "Reluctance to begin is quick to befriend procrastination.",
+    "type" : [ "NOUN" ]
+  },
+  "repeatedly" : {
+    "author" : "Aristotle",
+    "quotation" : "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "type" : [ "ADVERB" ]
+  },
+  "resist" : {
+    "author" : "Bible",
+    "quotation" : "Resist the devil, and he will flee from you.",
+    "type" : [ "VERB" ]
+  },
+  "revolt" : {
+    "author" : "Juvenal",
+    "quotation" : "Give them bread and circuses and they will never revolt",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "ripple" : {
+    "author" : "Lee J. Colan",
+    "quotation" : "A single act does make a difference... it creates a ripple effect that can be felt many miles and people away.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "rock up" : {
+    "author" : "Katy B",
+    "quotation" : "The days of an open mic night when I'd rock up in an old jumper are over.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "royal" : {
+    "author" : "Anthony Trollope",
+    "quotation" : "There is no royal road to learning; no short cut to the acquirement of any art.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "ruthless" : {
+    "author" : "George S. Patton",
+    "quotation" : "War is very simple, direct, and ruthless. It takes a simple, direct, and ruthless man to wage war.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN" ]
+  },
+  "scale" : {
+    "author" : "James Russell Lowell",
+    "quotation" : "In the scale of the destinies, brawn will never weigh so mach as brain.",
+    "type" : [ "ADJECTIVE", "NOUN", "VERB" ]
+  },
+  "scare" : {
+    "author" : "Elmer Davis",
+    "quotation" : "The first and great commandment is, don't let them scare you.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "scatter" : {
+    "author" : "Anonymous",
+    "quotation" : "It takes 8,460 bolts to assemble an automobile, and one nut to scatter it all over the road.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "seniority" : {
+    "author" : "Meryl Streep",
+    "quotation" : "I'm older. There's some sort of seniority. As a matter of fact, the seniority ebbs as you get older.",
+    "type" : [ "NOUN" ]
+  },
+  "sheet" : {
+    "author" : "Thomas A. Edison",
+    "quotation" : "Tomorrow Is My Exam But I Don’t Care Because A Single Sheet Of Paper Can’t Decide My Future",
+    "type" : [ "NOUN" ]
+  },
+  "should be" : {
+    "author" : "Christian Bale",
+    "quotation" : "I tend to think you're fearless when you recognize why you should be scared of things, but do them anyway."
+  },
+  "show off" : {
+    "author" : "Bruce Lee",
+    "quotation" : "Showing off is the fool's idea of glory.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "single out" : {
+    "author" : "Usain Bolt",
+    "quotation" : "I never single out any one competitor. I treat all my rivals equally.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "slavery" : {
+    "author" : "Abraham Lincoln",
+    "quotation" : "Where slavery is, there liberty cannot be; and where liberty is, there slavery cannot be.",
+    "type" : [ "NOUN" ]
+  },
+  "so-called" : {
+    "quotation" : "This so-called contemporary art is not a form, but a philosophy of society.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "spectacle" : {
+    "author" : "Guy Debord",
+    "quotation" : "The Mafia is not an outsider in this world; it is perfectly at home. Indeed, in the integrated spectacle it stands as the model of all advanced commercial enterprises.",
+    "type" : [ "NOUN" ]
+  },
+  "spot" : {
+    "author" : "William Poundstone",
+    "quotation" : "Samuelson spotted a mistake in Bacheliers work. Bachelier's model had failed to consider that stock prices cannot fall below zero.",
+    "type" : [ "NOUN", "QUANTIFIER", "VERB" ]
+  },
+  "stranger" : {
+    "author" : "Taylor Swift",
+    "quotation" : "When I meet my fans, it's not like meeting a stranger. It's like saying hello to someone that I already know.",
+    "type" : [ "NOUN" ]
+  },
+  "surround" : {
+    "author" : "Doreen Virtue",
+    "quotation" : "Surround yourself with positive people and situations, and avoid negativity.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "sympathize" : {
+    "quotation" : "I can sympathize with people's pains, but not with their pleasures. There is something curiously boring about somebody else's happiness.",
+    "type" : [ "VERB" ]
+  },
+  "take place" : {
+    "quotation" : "Observe constantly that all things take place by change.",
+    "type" : [ "PHRASE" ]
+  },
+  "take up" : {
+    "author" : "John Wooden",
+    "quotation" : "Don't let yesterday take up too much of today.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "tertiary" : {
+    "author" : "Karl Kraus",
+    "quotation" : "Morality is a venereal disease. Its primary stage is called virtue; its secondary stage, boredom; its tertiary stage, syphilis.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "themselves" : {
+    "author" : "Robin Williams",
+    "quotation" : "Good people end up in Hell because they can't forgive themselves.",
+    "type" : [ "NOUN" ]
+  },
+  "though" : {
+    "author" : "Nelson Mandela",
+    "quotation" : "Live life as though nobody is watching, and express yourself as though everyone is listening.",
+    "type" : [ "ADVERB", "CONJUNCTION" ]
+  },
+  "through" : {
+    "quotation" : "But my experience is that people who have been through painful, difficult times are filled with compassion.",
+    "type" : [ "ADJECTIVE", "ADVERB", "PREPOSITION" ]
+  },
+  "through to" : {
+    "quotation" : "Once you freeze all the way through to your soul, you will never feel warm again.",
+    "type" : [ "STRUCTURE" ]
+  },
+  "throw up" : {
+    "author" : "Ray Bradbury",
+    "quotation" : "Writing can be described in two verbs: Throw up and clean up.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "tide" : {
+    "author" : "John F. Kennedy",
+    "quotation" : "A rising tide lifts all the boats.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "tiny" : {
+    "author" : "Dodie Smith",
+    "quotation" : "What a tiny list of friends I have! All my fault. I less and less want to see people.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "tireless" : {
+    "author" : "Dalai Lama",
+    "quotation" : "I believe that constant effort, tireless effort, pursuing clear goals with sincere effort is the only way.",
+    "type" : [ "ADJECTIVE", "ADVERB" ]
+  },
+  "to this end" : {
+    "quotation" : "Medicine is aptly described as an art, not a science. To this end, four different doctors may have up to four different diagnoses or prescriptions.",
+    "type" : [ "PHRASE" ]
+  },
+  "trait" : {
+    "author" : "Nikola Tesla",
+    "quotation" : "Anti-social behavior is a trait of intelligence in a world full of conformists.",
+    "type" : [ "NOUN" ]
+  },
+  "trump" : {
+    "quotation" : "Maybe this is crazy, but I think the right to own a gun is trumped by the right not to be shot by one.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "trump up" : {
+    "quotation" : "It is inappropriate for the Bush administration to trump up a case in which we are ballyhooed into war.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "trumped-up" : {
+    "quotation" : "The trumped-up charges against kitsch and sentimentality should disturb us and make us suspicious.",
+    "type" : [ "ADJECTIVE" ]
+  },
+  "turn out" : {
+    "author" : "John Dewey",
+    "quotation" : "All learning begins when our comfortable ideas turn out to be inadequate.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "unconscious" : {
+    "author" : "Carl Jung",
+    "quotation" : "The unconscious mind of man sees correctly even when conscious reason is blind and impotent.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN" ]
+  },
+  "underestimate" : {
+    "author" : "Vinnie Jones",
+    "quotation" : "Never underestimate the predictability of stupidity.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "undoubtedly" : {
+    "author" : "Bertrand Russell",
+    "quotation" : "Undoubtedly the desire for food has been, and still is, one of the main causes of great political events.",
+    "type" : [ "ADVERB" ]
+  },
+  "unreliable" : {
+    "author" : "Joyce Meyer",
+    "quotation" : "Our feelings are unreliable and cannot be trusted to convey truth.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "unwilling" : {
+    "author" : "Ellen Swallow Richards",
+    "quotation" : "The unwilling mind is not a teachable mind.",
+    "type" : [ "ADJECTIVE", "ADVERB", "NOUN" ]
+  },
+  "utmost" : {
+    "author" : "Mohamed ElBaradei",
+    "quotation" : "I have, as you know, the utmost respect for President Obama as a person.",
+    "type" : [ "ADJECTIVE", "NOUN" ]
+  },
+  "vanish" : {
+    "author" : "Sanjay Dutt",
+    "quotation" : "I have lost 18 kg. Now if I lose anymore weight, I will vanish.",
+    "type" : [ "VERB" ]
+  },
+  "veer" : {
+    "author" : "Anita Shreve",
+    "quotation" : "A single action can cause a life to veer off in a direction it was never meant to go.",
+    "type" : [ "VERB" ]
+  },
+  "venom" : {
+    "author" : "Alexander the Great",
+    "quotation" : "May God keep you away from the venom of the cobra, the teeth of the tiger, and the revenge of the Afghans.",
+    "type" : [ "NOUN" ]
+  },
+  "vicinity" : {
+    "author" : "Bertolt Brecht",
+    "quotation" : "Impact lies in the vicinity of mistakes.",
+    "type" : [ "NOUN" ]
+  },
+  "vote" : {
+    "author" : "Christabel Pankhurst",
+    "quotation" : "How long you women have been trying for the vote. For my part, I mean to get it.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "way out" : {
+    "author" : "Husayn ibn Ali",
+    "quotation" : "When you are frustrated and do not know a way out, only flexibility and moderation towards difficulties will save you.",
+    "type" : [ "PHRASE" ]
+  },
+  "wear wore worn" : {
+    "author" : "Proverbs",
+    "quotation" : "If every fool wore a crown, we should all be kings."
+  },
+  "wee" : {
+    "author" : "Walter de La Mare",
+    "quotation" : "Some one came knocking At my wee, small door; Some one came knocking, I'm sure—sure—sure.",
+    "type" : [ "ADJECTIVE", "VERB" ]
+  },
+  "whatever" : {
+    "author" : "Robert De Niro",
+    "quotation" : "Time goes on. So whatever you're going to do, do it. Do it now. Don't wait.",
+    "type" : [ "ADVERB", "CONJUNCTION", "CONVENTION", "VERB" ]
+  },
+  "wipe" : {
+    "author" : "Tyga",
+    "quotation" : "Wake up everyday stronger than yesterday, face your fears and wipe your tears.",
+    "type" : [ "NOUN", "VERB" ]
+  },
+  "wise" : {
+    "author" : "William Shakespeare",
+    "quotation" : "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
+    "type" : [ "ADJECTIVE", "ADVERB", "VERB" ]
+  },
+  "work out" : {
+    "author" : "Buddha",
+    "quotation" : "Work out your own salvation. Do not depend on others.",
+    "type" : [ "PHRASAL VERB" ]
+  },
+  "youngster" : {
+    "author" : "Debbie Reynolds",
+    "quotation" : "I wasn't watching television when I was a youngster; there was the radio.",
+    "type" : [ "NOUN" ]
+  }
+}
